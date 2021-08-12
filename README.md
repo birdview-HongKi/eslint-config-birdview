@@ -39,7 +39,7 @@ module.exports = {
 ```
 2. 패키지를 설치합니다
 ```
-install-peerdeps --dev @birdviewdev/eslint-config-birdview
+npx install-peerdeps --dev @birdviewdev/eslint-config-birdview
 ```
 3. package.json 파일에서 "eslintConfig" 내 "extends" 속성의 "react-app"를 지웁니다.
 ```

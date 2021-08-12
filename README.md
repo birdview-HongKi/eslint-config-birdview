@@ -36,6 +36,7 @@ module.exports = {
 ```
 @birdviewdev:registry=https://npm.pkg.github.com
 //npm.pkg.github.com/:_authToken={개인액세스토큰}
+```
 2. 패키지를 설치합니다
 ```
 install-peerdeps --dev @birdviewdev/eslint-config-birdview
